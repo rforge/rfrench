@@ -1,0 +1,35 @@
+Traduction de R en français:
+----------------------------
+Depuis la version 2.1.0 de R, le logiciel est internationalisé
+(voir http://www.r-project.org). Une traduction en français de R est disponible
+depuis la version 2.2.1.
+
+L'équipe de traduction en français est composée de (par ordre alphabétique):
+
+Traduction:
+Philippe Grosjean <phgrosjean@sciviews.org>
+Frédéric Lehobey <Frederic.Lehobey@free.fr>
+Jean Thioulouse <jthioulouse@biomserv.univ-lyon1.fr>
+
+Documentation:
+Yves Brostaux <brostaux.y@fsagx.ac.be>
+Emmanuel Paradis <paradis@isem.univ-montp2.fr>
+
+Relecture:
+Santos Carvajal-Gonzalez <Santos.Carvajal-Gonzalez@pfizer.com>
+Vincent Goulet <vincent.goulet@act.ulaval.ca>
+Ted Harding <ted.harding@nessie.mcc.ac.uk>
+
+Interface avec le R core team et synchronisation:
+Philippe Grosjean <phgrosjean@sciviews.org>
+
+Veuillez leurs adresser directement vos commentaires et suggestions
+concernant la traduction française de R. Merci beaucoup.
+
+Notez aussi qu'un dictionnaire de traduction En-Fr est disponible à partir de ce
+site dans le fichier RfrenchDictionnary.txt. Il répertorie les termes spécifiques
+à R et indique leur traduction en français telle qu'elle a été utilisée ici. Il
+est conseiller de conserver les mêmes traductions dans tous les documents en
+français concernant R. Si vous souhaitez discuter de l'une de ces traductions,
+contactez les personnes mentionnées ci-dessus par email.
+
