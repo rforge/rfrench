@@ -8,7 +8,7 @@ L'équipe de traduction en français est composée de (par ordre alphabétique):
 
 Traduction:
 Philippe Grosjean <phgrosjean@sciviews.org>
-Frédéric Lehobey <Frederic.Lehobey@free.fr>
+Frédéric Lehobey <Frederic@Lehobey.net>
 Jean Thioulouse <jthioulouse@biomserv.univ-lyon1.fr>
 
 Documentation:

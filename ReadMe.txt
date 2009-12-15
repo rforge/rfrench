@@ -8,7 +8,7 @@ The French translation team is composed by (in alphabetic order):
 
 Traduction:
 Philippe Grosjean <phgrosjean@sciviews.org>
-Frédéric Lehobey <Frederic.Lehobey@free.fr>
+Frédéric Lehobey <Frederic@Lehobey.net>
 Emmanuel Paradis <paradis@isem.univ-montp2.fr>
 Jean Thioulouse <jthioulouse@biomserv.univ-lyon1.fr>
 
