@@ -29,7 +29,7 @@ concernant la traduction française de R. Merci beaucoup.
 Notez aussi qu'un dictionnaire de traduction En-Fr est disponible à partir de ce
 site dans le fichier RfrenchDictionnary.txt. Il répertorie les termes spécifiques
 à R et indique leur traduction en français telle qu'elle a été utilisée ici. Il
-est conseiller de conserver les mêmes traductions dans tous les documents en
+est conseillé de conserver les mêmes traductions dans tous les documents en
 français concernant R. Si vous souhaitez discuter de l'une de ces traductions,
 contactez les personnes mentionnées ci-dessus par email.
 
