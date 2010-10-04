@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: R 2.12.0\n"
 "Report-Msgid-Bugs-To: bugs@R-project.org\n"
 "POT-Creation-Date: 2010-07-12 18:52+0100\n"
-"PO-Revision-Date: 2010-10-01 21:00+0100\n"
-"Last-Translator: Philippe Grosjean <phgrosjean@sciviews.org>\n"
+"PO-Revision-Date: 2010-10-03 17:46-0400\n"
+"Last-Translator: Vincent Goulet <vincent.goulet@act.ulaval.ca>\n"
 "Language-Team: French <R-core@r-project.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
@@ -70,9 +70,9 @@ msgid "distance(): invalid distance"
 msgstr "distance() : distance incorrecte"
 
 #: family.c:21
-#, fuzzy, c-format
+#, c-format
 msgid "Value %g out of range (0, 1)"
-msgstr "Valeur %d hors plage (0, 1)"
+msgstr "Valeur %g hors de l'intervalle (0, 1)"
 
 #: family.c:42
 #: family.c:56
@@ -112,24 +112,20 @@ msgid "Burg's algorithm failed to find partial correlation"
 msgstr "l'algorithme de Burg n'a pas trouvé la correlation partielle"
 
 #: monoSpl.c:40
-#, fuzzy
 msgid "n must be at least two"
-msgstr "'m' doit être une liste"
+msgstr "n doit valoir deux ou plus"
 
 #: monoSpl.c:73
-#, fuzzy
 msgid "Argument m must be numeric"
-msgstr "L'argument %s doit être un vecteur numérique non vide"
+msgstr "L'argument m doit être numérique"
 
 #: monoSpl.c:76
-#, fuzzy
 msgid "length(m) must be at least two"
-msgstr "'m' doit être une liste"
+msgstr "length(m) doit valoir deux ou plus"
 
 #: monoSpl.c:78
-#, fuzzy
 msgid "Argument Sx must be numeric vector one shorter than m[]"
-msgstr "l'argument %s doit être un vecteur numérique de longueur 1 ou %d"
+msgstr "L'argument Sx doit être un vecteur numérique plus court que m[] d'un élément"
 
 #: nls.c:97
 msgid "'control' must be a list"
