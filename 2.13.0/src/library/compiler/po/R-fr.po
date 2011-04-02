@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: R 2.13.0\n"
 "Report-Msgid-Bugs-To: bugs@r-project.org\n"
 "POT-Creation-Date: 2011-03-15 19:43\n"
-"PO-Revision-Date: 2011-03-27 21:57+0100\n"
+"PO-Revision-Date: 2011-04-02 18:32+0100\n"
 "Last-Translator: Philippe Grosjean <phgrosjean@sciviews.org>\n"
 "Language-Team: French <R-core@r-project.org>\n"
 "Language: fr\n"
@@ -19,100 +19,100 @@ msgstr ""
 "X-Poedit-Language: French\n"
 
 msgid "expected a single logical value for the S4 state flag"
-msgstr ""
+msgstr "une valeur booléenne unique (logical) est attendue pour le drapeau d'état S4"
 
 msgid "not a proper evaluation environment"
-msgstr ""
+msgstr "ceci n'est pas un environnement adéquat pour l'évaluation"
 
 msgid "'ns' must be a namespace or a namespace imports environment"
-msgstr ""
+msgstr "'ns' doit être être un espace de noms (namespace) ou un environnement d'importation d'espace de noms"
 
 msgid "bad assignment: %s"
-msgstr ""
+msgstr "affectation incorrecte: %s"
 
 msgid "cannot constant fold literal promises"
-msgstr ""
+msgstr "les promesses littérales ne peuvent repliées de manière constante (?constant fold)"
 
 msgid "cannot constant fold literal bytecode objects"
-msgstr ""
+msgstr "les objects 'bytecode' littéraux ne peuvent repliés de manière constante (?constant fold)"
 
 msgid "no offset recorded for label \"%s\""
-msgstr ""
+msgstr "aucun décallage enregistré pour le libellé \"%s\""
 
 msgid "cannot compile byte code literals in code"
-msgstr ""
+msgstr "impossible de compiler des littéraux en byte code dans le code"
 
 msgid "cannot compile promise literals in code"
-msgstr ""
+msgstr "impossible de compiler des promesses littérales dans le code"
 
 msgid "possible error in '%s': %s"
-msgstr ""
+msgstr "erreur possible dans '%s' : %s"
 
 msgid "bad namespace import frame"
-msgstr ""
+msgstr "cadre d'importation erroné pour l'espace de noms"
 
 msgid "bad assignment 1"
-msgstr ""
+msgstr "mauvaise affectation 1"
 
 msgid "bad assignment 2"
-msgstr ""
+msgstr "mauvaise affectation 1"
 
 msgid "invalid function in complex assignment"
-msgstr ""
+msgstr "function incorrecte dans une affectation complexe"
 
 msgid "missing arguments are not allowed"
-msgstr ""
+msgstr "les arguments manquants ne sont pas autorisés"
 
 msgid "empty alternative in numeric switch"
-msgstr ""
+msgstr "alternative vide dans une construction 'switch' numérique"
 
 msgid "no visible global function definition for '%s'"
-msgstr ""
+msgstr "pas de définition globale de fonction visible pour '%s'"
 
 msgid "no visible binding for global variable '%s'"
-msgstr ""
+msgstr "pas de lien pour la variable globale '%s'"
 
 msgid "no visible binding for '<<-' assignment to '%s'"
-msgstr ""
+msgstr "pas de lien visible pour l'affectation '<<-' à '%s'"
 
 msgid "wrong number of arguments to '%s'"
-msgstr ""
+msgstr "nombre incorrect d'arguments pour '%s'"
 
 msgid "more than one default provided in switch call"
-msgstr ""
+msgstr "plus d'une valeur par défaut fournie dans une construction 'switch'"
 
 msgid "cannot compile a non-function"
-msgstr ""
+msgstr "impossible de compiler autre chose qu'une fonction"
 
 msgid "compiling '%s'"
-msgstr ""
+msgstr "compilation de '%s'"
 
 msgid "saving to file \"%s\" ..."
-msgstr ""
+msgstr "sauvegarde dans le fichier \"%s\" ..."
 
 msgid "done"
-msgstr ""
+msgstr "fini"
 
 msgid "'env' must be a top level environment"
-msgstr ""
+msgstr "'env' doit être un environnement de premier niveau"
 
 msgid "input and output file names are the same"
-msgstr ""
+msgstr "les noms de fichier d'entrée et de sortie sont les mêmes"
 
 msgid "empty input file; no output written"
-msgstr ""
+msgstr "fichier d'entrée vide ; rien n'est écrit en sortie"
 
 msgid "file '%s' does not exist"
-msgstr ""
+msgstr "le fichier '%s' n'existe pas"
 
 msgid "'%s' is not a valid compiler option"
-msgstr ""
+msgstr "'%s' n'est pas une option de compilation reconnue"
 
 msgid "function is not compiled"
-msgstr ""
+msgstr "la fonction n'est pas compilée"
 
 msgid "local assignment to syntactic function: "
 msgid_plural "local assignments to syntactic functions: "
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "affectation locale vers une fonction syntaxique :"
+msgstr[1] "affectations locales vers des fonctions syntaxiques :"
 
